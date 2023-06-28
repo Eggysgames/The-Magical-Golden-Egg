@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 84ee4db703f9b3149b234e77260bd24c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2460279846811975764
+    second: Egg Smaller Spritesheet_0
+  - first:
+      213: 1106977833392348118
+    second: Egg Smaller Spritesheet_1
+  - first:
+      213: 9130480546490483918
+    second: Egg Smaller Spritesheet_2
+  - first:
+      213: -7435046977110359549
+    second: Egg Smaller Spritesheet_3
+  - first:
+      213: 7577902737968500433
+    second: Egg Smaller Spritesheet_4
+  - first:
+      213: 2288848910949395599
+    second: Egg Smaller Spritesheet_5
+  - first:
+      213: -1090824894595879539
+    second: Egg Smaller Spritesheet_6
+  - first:
+      213: -7733510661552370889
+    second: Egg Smaller Spritesheet_7
+  - first:
+      213: -9155155269928024655
+    second: Egg Smaller Spritesheet_8
+  - first:
+      213: -409908847017628864
+    second: Egg Smaller Spritesheet_9
+  - first:
+      213: -2103401080243350113
+    second: Egg Smaller Spritesheet_10
+  - first:
+      213: 1804742805949387261
+    second: Egg Smaller Spritesheet_11
+  - first:
+      213: 488249284251800080
+    second: Egg Smaller Spritesheet_12
+  - first:
+      213: 839819212868612469
+    second: Egg Smaller Spritesheet_13
+  - first:
+      213: 130404432375792409
+    second: Egg Smaller Spritesheet_14
+  - first:
+      213: -647090480500312272
+    second: Egg Smaller Spritesheet_15
+  - first:
+      213: 7199245822672997441
+    second: Egg Smaller Spritesheet_16
+  - first:
+      213: 1199804045262502562
+    second: Egg Smaller Spritesheet_17
+  - first:
+      213: 388783246982994087
+    second: Egg Smaller Spritesheet_18
+  - first:
+      213: -7950108122207334746
+    second: Egg Smaller Spritesheet_19
+  - first:
+      213: 8833924482116354571
+    second: Egg Smaller Spritesheet_20
+  - first:
+      213: 5931818618314895603
+    second: Egg Smaller Spritesheet_21
+  - first:
+      213: 6518009118169010274
+    second: Egg Smaller Spritesheet_22
+  - first:
+      213: -4983841567958226458
+    second: Egg Smaller Spritesheet_23
+  - first:
+      213: 841475079763784315
+    second: Egg Smaller Spritesheet_24
+  - first:
+      213: 6499615008179886
+    second: Egg Smaller Spritesheet_25
+  - first:
+      213: 5779710312451281249
+    second: Egg Smaller Spritesheet_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 448
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf38b2b3845bddd0800000000000000
+      internalID: -2460279846811975764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 448
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db15957976cc5f00800000000000000
+      internalID: 1106977833392348118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 447
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec40e228eabf5be70800000000000000
+      internalID: 9130480546490483918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 446
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302cef8ba2861d890800000000000000
+      internalID: -7435046977110359549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 445
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de8217046e1a2960800000000000000
+      internalID: 7577902737968500433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 442
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cada925ff93cf10800000000000000
+      internalID: 2288848910949395599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 440
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da57da98c9cd0f0800000000000000
+      internalID: -1090824894595879539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 369
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b8977f60d0da490800000000000000
+      internalID: -7733510661552370889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 371
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b50560c9ca52f080800000000000000
+      internalID: -9155155269928024655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 373
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b693f4316bf4af0800000000000000
+      internalID: -409908847017628864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 374
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951cef9cd73fc2e0800000000000000
+      internalID: -2103401080243350113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 375
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df11e83250cbb0910800000000000000
+      internalID: 1804742805949387261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 375
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012daad132c96c600800000000000000
+      internalID: 488249284251800080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 375
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f492ef13a7ab00800000000000000
+      internalID: 839819212868612469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 301
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91345ece32a4fc100800000000000000
+      internalID: 130404432375792409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 301
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037fd3ce2a21507f0800000000000000
+      internalID: -647090480500312272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 300
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8327beebd8e360800000000000000
+      internalID: 7199245822672997441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 299
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab2fd1c6f86a010800000000000000
+      internalID: 1199804045262502562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 298
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85b03ad4c356500800000000000000
+      internalID: 388783246982994087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 296
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae42e9c8ca8ba190800000000000000
+      internalID: -7950108122207334746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 294
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b020c292387689a70800000000000000
+      internalID: 8833924482116354571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f035b0fa9d025250800000000000000
+      internalID: 5931818618314895603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 226
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260983352ce947a50800000000000000
+      internalID: 6518009118169010274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 227
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9260ddf76d5dab0800000000000000
+      internalID: -4983841567958226458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f9a070258dab00800000000000000
+      internalID: 841475079763784315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 229
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea64dbb8d57171000800000000000000
+      internalID: 6499615008179886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egg Smaller Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 229
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161125e28e7a53050800000000000000
+      internalID: 5779710312451281249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

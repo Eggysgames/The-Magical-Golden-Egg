@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 629cab851da8e6d40b1fd30e677d7601
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1131922636039043740
+    second: Skeleton Walk LeftSided_0
+  - first:
+      213: 7560310994187575474
+    second: Skeleton Walk LeftSided_1
+  - first:
+      213: 6888419072395698708
+    second: Skeleton Walk LeftSided_2
+  - first:
+      213: -8903779329961813869
+    second: Skeleton Walk LeftSided_3
+  - first:
+      213: 2777542484734548271
+    second: Skeleton Walk LeftSided_4
+  - first:
+      213: 688467430435026762
+    second: Skeleton Walk LeftSided_5
+  - first:
+      213: -3674903061080678155
+    second: Skeleton Walk LeftSided_6
+  - first:
+      213: -7563797649896082069
+    second: Skeleton Walk LeftSided_7
+  - first:
+      213: -1263793230032888038
+    second: Skeleton Walk LeftSided_8
+  - first:
+      213: 5227972931717796559
+    second: Skeleton Walk LeftSided_9
+  - first:
+      213: -1440892715529267265
+    second: Skeleton Walk LeftSided_10
+  - first:
+      213: -949862268618375194
+    second: Skeleton Walk LeftSided_11
+  - first:
+      213: -2354055899373665587
+    second: Skeleton Walk LeftSided_12
+  - first:
+      213: 2490475654506656034
+    second: Skeleton Walk LeftSided_13
+  - first:
+      213: 1831088012542228260
+    second: Skeleton Walk LeftSided_14
+  - first:
+      213: 3652075665685312960
+    second: Skeleton Walk LeftSided_15
+  - first:
+      213: 3041091697263287300
+    second: Skeleton Walk LeftSided_16
+  - first:
+      213: -917256754127588907
+    second: Skeleton Walk LeftSided_17
+  - first:
+      213: 629091082386755383
+    second: Skeleton Walk LeftSided_18
+  - first:
+      213: -5627515075848873541
+    second: Skeleton Walk LeftSided_19
+  - first:
+      213: -8189418780808050312
+    second: Skeleton Walk LeftSided_20
+  - first:
+      213: -6343642468213378954
+    second: Skeleton Walk LeftSided_21
+  - first:
+      213: -6874646997658683387
+    second: Skeleton Walk LeftSided_22
+  - first:
+      213: -5189336979399680781
+    second: Skeleton Walk LeftSided_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1690
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab45ae3a565bf00800000000000000
+      internalID: 1131922636039043740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1690
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e7000bce9be860800000000000000
+      internalID: 7560310994187575474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1690
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412eb2266a4989f50800000000000000
+      internalID: 6888419072395698708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1690
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3981927afdb6f6480800000000000000
+      internalID: -8903779329961813869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29982f7c20db8620800000000000000
+      internalID: 2777542484734548271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1352
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a477186fa7ded8900800000000000000
+      internalID: 688467430435026762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_6
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1352
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f06a4ce22f100dc0800000000000000
+      internalID: -3674903061080678155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_7
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1352
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b657205bc1ef70790800000000000000
+      internalID: -7563797649896082069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f985ec0ca167ee0800000000000000
+      internalID: -1263793230032888038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1014
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc29562bead7d8840800000000000000
+      internalID: 5227972931717796559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_10
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1014
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb71e6b95bbe00ce0800000000000000
+      internalID: -1440892715529267265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_11
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1014
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef747d9c4961d2f0800000000000000
+      internalID: -949862268618375194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc28b60c1a6b45fd0800000000000000
+      internalID: -2354055899373665587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 676
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b0a4a962ff8220800000000000000
+      internalID: 2490475654506656034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 676
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273e0c88d4596910800000000000000
+      internalID: 1831088012542228260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_15
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 676
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5750ae777cea230800000000000000
+      internalID: 3652075665685312960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c94c849c0243a20800000000000000
+      internalID: 3041091697263287300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 338
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1b56a87df3543f0800000000000000
+      internalID: -917256754127588907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_18
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 338
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f4701a10bfab800800000000000000
+      internalID: 629091082386755383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_19
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 338
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb95fd7badc07e1b0800000000000000
+      internalID: -5627515075848873541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879060d1207595e80800000000000000
+      internalID: -8189418780808050312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703f0409cad6f7a0800000000000000
+      internalID: -6343642468213378954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_22
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083954aaf85890a0800000000000000
+      internalID: -6874646997658683387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Walk LeftSided_23
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 415
+        height: 338
+      alignment: 9
+      pivot: {x: 0.3720456, y: 0.4931691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5513f285cbf7b0800000000000000
+      internalID: -5189336979399680781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

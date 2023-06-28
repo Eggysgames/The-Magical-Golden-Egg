@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 545f58bfc8cc0ac4e81948b88ded613a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2603644690156975937
+    second: Mage Attack Animation_0
+  - first:
+      213: -2483080673411530973
+    second: Mage Attack Animation_1
+  - first:
+      213: 7731723098724951276
+    second: Mage Attack Animation_2
+  - first:
+      213: 7246178254784489570
+    second: Mage Attack Animation_3
+  - first:
+      213: -1763890169126502269
+    second: Mage Attack Animation_4
+  - first:
+      213: -4350892516342845015
+    second: Mage Attack Animation_5
+  - first:
+      213: 3996699175451281143
+    second: Mage Attack Animation_6
+  - first:
+      213: -5588321360350227726
+    second: Mage Attack Animation_7
+  - first:
+      213: -8948584651692323834
+    second: Mage Attack Animation_8
+  - first:
+      213: -1614819426280840573
+    second: Mage Attack Animation_9
+  - first:
+      213: -2861649137817502136
+    second: Mage Attack Animation_10
+  - first:
+      213: 8530330746885994771
+    second: Mage Attack Animation_11
+  - first:
+      213: 8435669591808416144
+    second: Mage Attack Animation_12
+  - first:
+      213: -6619783313119173081
+    second: Mage Attack Animation_13
+  - first:
+      213: -1934294805422168229
+    second: Mage Attack Animation_14
+  - first:
+      213: 1854638711821949901
+    second: Mage Attack Animation_15
+  - first:
+      213: -5025347004808536395
+    second: Mage Attack Animation_16
+  - first:
+      213: -8898706848639122900
+    second: Mage Attack Animation_17
+  - first:
+      213: -851357243554406588
+    second: Mage Attack Animation_18
+  - first:
+      213: -7781105685390502336
+    second: Mage Attack Animation_19
+  - first:
+      213: -7455321535006549639
+    second: Mage Attack Animation_20
+  - first:
+      213: -1967129155018399144
+    second: Mage Attack Animation_21
+  - first:
+      213: -2311995581717861735
+    second: Mage Attack Animation_22
+  - first:
+      213: 5923743139138118290
+    second: Mage Attack Animation_23
+  - first:
+      213: 3249810382138824243
+    second: Mage Attack Animation_24
+  - first:
+      213: 5283750415427362094
+    second: Mage Attack Animation_25
+  - first:
+      213: -3025715468821521517
+    second: Mage Attack Animation_26
+  - first:
+      213: 2129169192240142657
+    second: Mage Attack Animation_27
+  - first:
+      213: 7090589441054593051
+    second: Mage Attack Animation_28
+  - first:
+      213: -1618270752856460869
+    second: Mage Attack Animation_29
+  - first:
+      213: 6556144329953846924
+    second: Mage Attack Animation_30
+  - first:
+      213: -7905150270639751342
+    second: Mage Attack Animation_31
+  - first:
+      213: -1262843743119829556
+    second: Mage Attack Animation_32
+  - first:
+      213: -2955676524336311953
+    second: Mage Attack Animation_33
+  - first:
+      213: -4334953980784424633
+    second: Mage Attack Animation_34
+  - first:
+      213: 3807915103293094632
+    second: Mage Attack Animation_35
+  - first:
+      213: -4241880982346558568
+    second: Mage Attack Animation_36
+  - first:
+      213: 5381789337154312162
+    second: Mage Attack Animation_37
+  - first:
+      213: 5349679783849723187
+    second: Mage Attack Animation_38
+  - first:
+      213: 488276108145679079
+    second: Mage Attack Animation_39
+  - first:
+      213: 7390952015308522278
+    second: Mage Attack Animation_40
+  - first:
+      213: -92492843389626699
+    second: Mage Attack Animation_41
+  - first:
+      213: 6324520418863678308
+    second: Mage Attack Animation_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage Attack Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88cd1f2fefddbd0800000000000000
+      internalID: -2603644690156975937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ffaa098435a8dd0800000000000000
+      internalID: -2483080673411530973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ee21a1399c4b60800000000000000
+      internalID: 7731723098724951276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e6971bb89f8460800000000000000
+      internalID: 7246178254784489570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38049669c376587e0800000000000000
+      internalID: -1763890169126502269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1ba73fe468e93c0800000000000000
+      internalID: -4350892516342845015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ced289b0277730800000000000000
+      internalID: 3996699175451281143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_7
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1095
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d899b45b4272b0800000000000000
+      internalID: -5588321360350227726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ccd51cbad30d380800000000000000
+      internalID: -8948584651692323834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382612899420799e0800000000000000
+      internalID: -1614819426280840573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb59455416948d0800000000000000
+      internalID: -2861649137817502136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197bb06e92d16670800000000000000
+      internalID: 8530330746885994771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_12
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991e46bcc4811570800000000000000
+      internalID: 8435669591808416144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726297b562ec124a0800000000000000
+      internalID: -6619783313119173081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57adef6f110825e0800000000000000
+      internalID: -1934294805422168229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_15
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 876
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd5d405100db910800000000000000
+      internalID: 1854638711821949901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be50594681624ab0800000000000000
+      internalID: -5025347004808536395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22878eb441718480800000000000000
+      internalID: -8898706848639122900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_18
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fdbf0091f5f24f0800000000000000
+      internalID: -851357243554406588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046d68eea95f30490800000000000000
+      internalID: -7781105685390502336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_20
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795d9b5090698890800000000000000
+      internalID: -7455321535006549639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_21
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85260dfa47a53b4e0800000000000000
+      internalID: -1967129155018399144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_22
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2f6594442aefd0800000000000000
+      internalID: -2311995581717861735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_23
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 657
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922cfceffc553250800000000000000
+      internalID: 5923743139138118290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336d2c60355a91d20800000000000000
+      internalID: 3249810382138824243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dde512207a35940800000000000000
+      internalID: 5283750415427362094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_26
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b1d71efcf7206d0800000000000000
+      internalID: -3025715468821521517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_27
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149dd2a79145c8d10800000000000000
+      internalID: 2129169192240142657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_28
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10d1327785d66260800000000000000
+      internalID: 7090589441054593051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb13691035fba89e0800000000000000
+      internalID: -1618270752856460869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_30
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86271b388a1cfa50800000000000000
+      internalID: 6556144329953846924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_31
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 438
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f3f6e46b34b4290800000000000000
+      internalID: -7905150270639751342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc594847e4a797ee0800000000000000
+      internalID: -1262843743119829556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6119f76cd35bf6d0800000000000000
+      internalID: -2955676524336311953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749cda1725627d3c0800000000000000
+      internalID: -4334953980784424633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_35
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea31aa7c9e68d430800000000000000
+      internalID: 3807915103293094632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_36
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8939fb398bfc125c0800000000000000
+      internalID: -4241880982346558568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_37
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7511163e4ffaa40800000000000000
+      internalID: 5381789337154312162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335837a6b61ed3a40800000000000000
+      internalID: 5349679783849723187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_39
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 219
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea555a8884b6c600800000000000000
+      internalID: 488276108145679079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6230c60f2bfe19660800000000000000
+      internalID: 7390952015308522278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6de7dbf3667bef0800000000000000
+      internalID: -92492843389626699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Attack Animation_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 229
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463031defc535c750800000000000000
+      internalID: 6324520418863678308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

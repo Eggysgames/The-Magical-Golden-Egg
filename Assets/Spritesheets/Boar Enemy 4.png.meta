@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 8f7a38b76f7752c419ad641dfba6a073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2322823290345700936
+    second: Boar Enemy 4_0
+  - first:
+      213: 2392586465992330891
+    second: Boar Enemy 4_1
+  - first:
+      213: -661300948635843990
+    second: Boar Enemy 4_2
+  - first:
+      213: 917773357844392466
+    second: Boar Enemy 4_3
+  - first:
+      213: -3159671020928287251
+    second: Boar Enemy 4_4
+  - first:
+      213: -6575910959933649061
+    second: Boar Enemy 4_5
+  - first:
+      213: -298541788793155913
+    second: Boar Enemy 4_6
+  - first:
+      213: -5822995286475856941
+    second: Boar Enemy 4_7
+  - first:
+      213: 997008802286395590
+    second: Boar Enemy 4_8
+  - first:
+      213: 593241672403755340
+    second: Boar Enemy 4_9
+  - first:
+      213: 1232717227013286551
+    second: Boar Enemy 4_10
+  - first:
+      213: -4337814965448933627
+    second: Boar Enemy 4_11
+  - first:
+      213: 5251989505005206148
+    second: Boar Enemy 4_12
+  - first:
+      213: 3009754557347653622
+    second: Boar Enemy 4_13
+  - first:
+      213: -2786592411583601418
+    second: Boar Enemy 4_14
+  - first:
+      213: -3202351644543103560
+    second: Boar Enemy 4_15
+  - first:
+      213: 8763726602177632327
+    second: Boar Enemy 4_16
+  - first:
+      213: 7928813326422639569
+    second: Boar Enemy 4_17
+  - first:
+      213: 5734245865012631168
+    second: Boar Enemy 4_18
+  - first:
+      213: -2935303430298413060
+    second: Boar Enemy 4_19
+  - first:
+      213: 4309869005576549423
+    second: Boar Enemy 4_20
+  - first:
+      213: -3714903868975452455
+    second: Boar Enemy 4_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boar Enemy 4_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1825
+        width: 408
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3f09c9735c3020800000000000000
+      internalID: 2322823290345700936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1825
+        width: 407
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e41efd6bc243120800000000000000
+      internalID: 2392586465992330891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1824
+        width: 406
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628eea7a4692d6f0800000000000000
+      internalID: -661300948635843990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_3
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1824
+        width: 406
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ae1a2a1069cbc00800000000000000
+      internalID: 917773357844392466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1599
+        width: 406
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded397672f79624d0800000000000000
+      internalID: -3159671020928287251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1599
+        width: 406
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f8e8692dbadb4a0800000000000000
+      internalID: -6575910959933649061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1600
+        width: 405
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7becf5823dd5bdbf0800000000000000
+      internalID: -298541788793155913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_7
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1600
+        width: 405
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d325d473a0903fa0800000000000000
+      internalID: -5822995286475856941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1374
+        width: 404
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e73a293616dd00800000000000000
+      internalID: 997008802286395590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1373
+        width: 404
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41a59d682e9b3800800000000000000
+      internalID: 593241672403755340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1374
+        width: 404
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa1a869cd7b1110800000000000000
+      internalID: 1232717227013286551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_11
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1374
+        width: 405
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ffa0b854cfcc3c0800000000000000
+      internalID: -4337814965448933627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1150
+        width: 405
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a3ae9e0a0d2e840800000000000000
+      internalID: 5251989505005206148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1151
+        width: 405
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e1d3d2dbc4c920800000000000000
+      internalID: 3009754557347653622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_14
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1151
+        width: 405
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4a2c537f80459d0800000000000000
+      internalID: -2786592411583601418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_15
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1151
+        width: 406
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdce156526fe83d0800000000000000
+      internalID: -3202351644543103560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 926
+        width: 406
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748507799e20f9970800000000000000
+      internalID: 8763726602177632327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_17
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 925
+        width: 407
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d30ec336bdc80e60800000000000000
+      internalID: 7928813326422639569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_18
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 925
+        width: 407
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08694de9b32249f40800000000000000
+      internalID: 5734245865012631168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_19
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 925
+        width: 407
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d3110515b347d0800000000000000
+      internalID: -2935303430298413060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 700
+        width: 408
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f243bd1a60bbfcb30800000000000000
+      internalID: 4309869005576549423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar Enemy 4_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 700
+        width: 408
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6ef21d92027cc0800000000000000
+      internalID: -3714903868975452455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

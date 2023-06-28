@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heads
+  - Coins
+  - spike
+  - Chicken
+  - Ground
+  - Spring
+  - Other
+  - Gunbox
+  - Enemy
+  - BulletHit
+  - WhiteChicken
+  - Explosive
+  - Ending
+  - Eggs
+  - FxTemporaire
+  - BoarEnemy
+  - Ground2
+  - EndingAir
+  - Switch
+  - fire
+  - Bubble
+  - ArcherEnemy
+  - Shield
+  - Spikeball
+  - MageEnemy
+  - Metalbox
+  - Rocket
+  - Ending2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Main
+  - Water
+  - UI
+  - Over
+  - Ground
+  - Pieces
+  - Chickens
+  - Enemy
+  - Hitter
+  - BulletHitNonCollide
+  - Objects
+  - Ending
+  - WhiteChicken
+  - Eggs
+  - Bubble
+  - Arrow
+  - Rocket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1820097287
+    locked: 0
+  - name: Ground
+    uniqueID: 2869183901
+    locked: 0
+  - name: Objects Back
+    uniqueID: 1426606947
+    locked: 0
+  - name: Enemy
+    uniqueID: 3032365387
+    locked: 0
+  - name: Chicken
+    uniqueID: 489829925
+    locked: 0
+  - name: Objects Front
+    uniqueID: 3292146721
+    locked: 0
+  - name: Overlay
+    uniqueID: 82883777
+    locked: 0
+  - name: Effects Only
+    uniqueID: 2607427995
+    locked: 0
+  - name: Overlay Everything
+    uniqueID: 3491874283
+    locked: 0

@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: 7bd7745fd80dd5d4ebfd7c8ab7759add
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5591788480864510470
+    second: Fire Light Wall_0
+  - first:
+      213: 6918138486063673553
+    second: Fire Light Wall_1
+  - first:
+      213: 8398103709162316978
+    second: Fire Light Wall_2
+  - first:
+      213: 2274684002926386081
+    second: Fire Light Wall_3
+  - first:
+      213: 625399289247662054
+    second: Fire Light Wall_4
+  - first:
+      213: -4103217865106924031
+    second: Fire Light Wall_5
+  - first:
+      213: 1456653861846953959
+    second: Fire Light Wall_6
+  - first:
+      213: -6452778747977598165
+    second: Fire Light Wall_7
+  - first:
+      213: 4702292504976255312
+    second: Fire Light Wall_8
+  - first:
+      213: -1135317593272641452
+    second: Fire Light Wall_9
+  - first:
+      213: 8097845764891821683
+    second: Fire Light Wall_10
+  - first:
+      213: -2557559131310600407
+    second: Fire Light Wall_11
+  - first:
+      213: 3234255787975331585
+    second: Fire Light Wall_12
+  - first:
+      213: -419569734612802149
+    second: Fire Light Wall_13
+  - first:
+      213: 5309818544840675141
+    second: Fire Light Wall_14
+  - first:
+      213: 6532721951549039057
+    second: Fire Light Wall_15
+  - first:
+      213: -4625318919269066392
+    second: Fire Light Wall_16
+  - first:
+      213: 9186410693993777739
+    second: Fire Light Wall_17
+  - first:
+      213: 3455364884114345651
+    second: Fire Light Wall_18
+  - first:
+      213: 2189984285565783959
+    second: Fire Light Wall_19
+  - first:
+      213: -407363747146441007
+    second: Fire Light Wall_20
+  - first:
+      213: -7147893437730146379
+    second: Fire Light Wall_21
+  - first:
+      213: -14936873336091930
+    second: Fire Light Wall_22
+  - first:
+      213: -7990188363877894409
+    second: Fire Light Wall_23
+  - first:
+      213: -4366364725570685670
+    second: Fire Light Wall_24
+  - first:
+      213: -5052381202158316937
+    second: Fire Light Wall_25
+  - first:
+      213: -8509775868475278284
+    second: Fire Light Wall_26
+  - first:
+      213: 3455627869672932987
+    second: Fire Light Wall_27
+  - first:
+      213: -563341447768557883
+    second: Fire Light Wall_28
+  - first:
+      213: 5497427394134295152
+    second: Fire Light Wall_29
+  - first:
+      213: 2824670051728918306
+    second: Fire Light Wall_30
+  - first:
+      213: -4456890961141639514
+    second: Fire Light Wall_31
+  - first:
+      213: 5338624758152192355
+    second: Fire Light Wall_32
+  - first:
+      213: -2265686842928326234
+    second: Fire Light Wall_33
+  - first:
+      213: 2926030420216773554
+    second: Fire Light Wall_34
+  - first:
+      213: -2945639136820824098
+    second: Fire Light Wall_35
+  - first:
+      213: -6684851762634448868
+    second: Fire Light Wall_36
+  - first:
+      213: 2693308210012681439
+    second: Fire Light Wall_37
+  - first:
+      213: 117862911282321305
+    second: Fire Light Wall_38
+  - first:
+      213: -4457981103235985183
+    second: Fire Light Wall_39
+  - first:
+      213: -1107713779419599616
+    second: Fire Light Wall_40
+  - first:
+      213: 2942300155393375472
+    second: Fire Light Wall_41
+  - first:
+      213: -7412147289701804475
+    second: Fire Light Wall_42
+  - first:
+      213: 8089750819788840033
+    second: Fire Light Wall_43
+  - first:
+      213: -3507566817185164651
+    second: Fire Light Wall_44
+  - first:
+      213: -1530857840632676641
+    second: Fire Light Wall_45
+  - first:
+      213: -59549158914078190
+    second: Fire Light Wall_46
+  - first:
+      213: 23771936739089350
+    second: Fire Light Wall_47
+  - first:
+      213: -4208737007431118936
+    second: Fire Light Wall_48
+  - first:
+      213: -6964877622401917990
+    second: Fire Light Wall_49
+  - first:
+      213: -6666391142657878599
+    second: Fire Light Wall_50
+  - first:
+      213: -1383289326887740655
+    second: Fire Light Wall_51
+  - first:
+      213: -671577448478680857
+    second: Fire Light Wall_52
+  - first:
+      213: 2006164584575523267
+    second: Fire Light Wall_53
+  - first:
+      213: -2366969613394135921
+    second: Fire Light Wall_54
+  - first:
+      213: -8970149145596058995
+    second: Fire Light Wall_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire Light Wall_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1870
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ec0d2ff50a9d40800000000000000
+      internalID: 5591788480864510470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1870
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b8c89c4a220060800000000000000
+      internalID: 6918138486063673553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1870
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4a28314de0c8470800000000000000
+      internalID: 8398103709162316978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1870
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd0b28c0d419f10800000000000000
+      internalID: 2274684002926386081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1870
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef736e075ddda800800000000000000
+      internalID: 625399289247662054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1870
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed34a67117e07c0800000000000000
+      internalID: -4103217865106924031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1870
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa61c38f2173410800000000000000
+      internalID: 1456653861846953959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1870
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bfa90caef1376a0800000000000000
+      internalID: -6452778747977598165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_8
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1870
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05967159e16e14140800000000000000
+      internalID: 4702292504976255312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_9
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1870
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4589bb10aaa8e30f0800000000000000
+      internalID: -1135317593272641452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_10
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1870
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3764746a1d3516070800000000000000
+      internalID: 8097845764891821683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1693
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fcc264589b18cd0800000000000000
+      internalID: -2557559131310600407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1693
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f450bd08262ec20800000000000000
+      internalID: 3234255787975331585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1693
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9526e1ac836d2af0800000000000000
+      internalID: -419569734612802149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1693
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f820b75d340b940800000000000000
+      internalID: 5309818544840675141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1693
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12a7ac004e8aa50800000000000000
+      internalID: 6532721951549039057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1693
+        width: 76
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d21ce2f09fcfb0800000000000000
+      internalID: -4625318919269066392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1693
+        width: 76
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a4950cadfac7f70800000000000000
+      internalID: 9186410693993777739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1693
+        width: 76
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8ef60e0ce3ff20800000000000000
+      internalID: 3455364884114345651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_19
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1693
+        width: 76
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f06dcca13646e10800000000000000
+      internalID: 2189984285565783959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_20
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1693
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded6fc84d0c85af0800000000000000
+      internalID: -407363747146441007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1693
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7bfbf1ac49dcc90800000000000000
+      internalID: -7147893437730146379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1516
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea4fba2efeeacff0800000000000000
+      internalID: -14936873336091930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1516
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6399254062d1190800000000000000
+      internalID: -7990188363877894409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1516
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1530948a6e8763c0800000000000000
+      internalID: -4366364725570685670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1516
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721e77b01652e9b0800000000000000
+      internalID: -5052381202158316937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1516
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf6513fe337e980800000000000000
+      internalID: -8509775868475278284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1516
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b768bcf1d3bd4ff20800000000000000
+      internalID: 3455627869672932987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_28
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1516
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6308e10fb9e28f0800000000000000
+      internalID: -563341447768557883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_29
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1516
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07240ed9619ca4c40800000000000000
+      internalID: 5497427394134295152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_30
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1516
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2278cf0427e333720800000000000000
+      internalID: 2824670051728918306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_31
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1516
+        width: 76
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6d082d841f522c0800000000000000
+      internalID: -4456890961141639514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1516
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36164caaeea961a40800000000000000
+      internalID: 5338624758152192355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1339
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91bfa02d9ae80e0800000000000000
+      internalID: -2265686842928326234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1339
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf1071a295b9820800000000000000
+      internalID: 2926030420216773554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1339
+        width: 76
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed77e4dcfccfe17d0800000000000000
+      internalID: -2945639136820824098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1339
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10a7006db2aa33a0800000000000000
+      internalID: -6684851762634448868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1339
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4f2781c8d806520800000000000000
+      internalID: 2693308210012681439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1339
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9971d2f71bbb2a100800000000000000
+      internalID: 117862911282321305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1339
+        width: 76
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e017365ec11222c0800000000000000
+      internalID: -4457981103235985183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1339
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da3e0cf2c90a0f0800000000000000
+      internalID: -1107713779419599616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_41
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1339
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc7cc0076625d820800000000000000
+      internalID: 2942300155393375472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_42
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1339
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546137eaf43c22990800000000000000
+      internalID: -7412147289701804475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_43
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1339
+        width: 76
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c50fe5281944070800000000000000
+      internalID: 8089750819788840033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1162
+        width: 76
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5921bbb409e925fc0800000000000000
+      internalID: -3507566817185164651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1162
+        width: 76
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeb77f97ec41cae0800000000000000
+      internalID: -1530857840632676641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1162
+        width: 76
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac0400b507c2ff0800000000000000
+      internalID: -59549158914078190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1162
+        width: 76
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbd4f45374745000800000000000000
+      internalID: 23771936739089350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1162
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af07079dff8795c0800000000000000
+      internalID: -4208737007431118936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_49
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1162
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9aa434b8c75f90800000000000000
+      internalID: -6964877622401917990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_50
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1162
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5111863983c73a0800000000000000
+      internalID: -6666391142657878599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1162
+        width: 76
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5449afa19dcce0800000000000000
+      internalID: -1383289326887740655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_52
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1162
+        width: 76
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d3486ed31ea6f0800000000000000
+      internalID: -671577448478680857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_53
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1162
+        width: 76
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d7908f0457db10800000000000000
+      internalID: 2006164584575523267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_54
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1162
+        width: 76
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84bf776da5d62fd0800000000000000
+      internalID: -2366969613394135921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Light Wall_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 985
+        width: 76
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822972c0e0a38380800000000000000
+      internalID: -8970149145596058995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
